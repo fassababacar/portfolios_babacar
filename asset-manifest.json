@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolios_babacar/static/css/main.bf9aff5b.css",
+    "main.js": "/portfolios_babacar/static/js/main.96e9bb04.js",
+    "index.html": "/portfolios_babacar/index.html",
+    "main.bf9aff5b.css.map": "/portfolios_babacar/static/css/main.bf9aff5b.css.map",
+    "main.96e9bb04.js.map": "/portfolios_babacar/static/js/main.96e9bb04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf9aff5b.css",
+    "static/js/main.96e9bb04.js"
+  ]
+}
