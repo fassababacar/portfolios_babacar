@@ -35,7 +35,7 @@ function App() {
 					<div className="card col-md-4">
 						<h5 className = "card-header text-white bg-dark">Application API Spatiale</h5>
 						<a href="https://app-thumbtack-api.herokuapp.com/" target="_blank" rel="noreferrer">
-							<img className="img-thumbnail" src="mesAssets/thumbtack.png" alt="CRUD"></img>
+							<img className="img-thumbnail" src="mesAssets/thumbtack.png" alt="APIS"></img>
 						</a>
 					</div>
 				</div>
