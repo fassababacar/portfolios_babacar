@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolios_babacar/static/css/main.bf9aff5b.css",
-    "main.js": "/portfolios_babacar/static/js/main.45d06527.js",
+    "main.js": "/portfolios_babacar/static/js/main.f377e6b8.js",
     "index.html": "/portfolios_babacar/index.html",
     "main.bf9aff5b.css.map": "/portfolios_babacar/static/css/main.bf9aff5b.css.map",
-    "main.45d06527.js.map": "/portfolios_babacar/static/js/main.45d06527.js.map"
+    "main.f377e6b8.js.map": "/portfolios_babacar/static/js/main.f377e6b8.js.map"
   },
   "entrypoints": [
     "static/css/main.bf9aff5b.css",
-    "static/js/main.45d06527.js"
+    "static/js/main.f377e6b8.js"
   ]
 }
